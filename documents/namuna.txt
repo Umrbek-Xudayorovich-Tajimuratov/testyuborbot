@@ -1,0 +1,335 @@
+______________ - bu bozorda foyda olish uchun mo’ljallangan va rejalashtirilgan tadbirlar majmui
+A.            Biznes model
+B.   Foyda modeli
+C.     Biznes-reja
+D. Daromad modeli
+ANSWER:         A
+
+… - bu ob’ektlar yoki elektronika, dasturiy ta’minot, datchiklar va tarmoq ulanishi bilan o’rnatilgan "narsalar" tarmog’i, bu ob’ektlarga ma’lumotlarni yig’ish va almashish imkonini beradi
+A.Buyumlar interneti
+B. Blokcheyn
+C.  Bulutli texnologiyalar
+D.Kriptovalyutalar
+ANSWER:A
+
+… buyumlar internetidan olingan juda katta hajmdagi ma?lumotlar to?plamlari asosida hulosalar va qarorlar shakllantirish imkonini beradi
+	A.Sun?iy intellect
+	B.Bulutli texnologiyalar
+	C.Robototexnika
+	D.Simsiz aloqa
+ANSWER:A
+
+… - prognoz qilinadigan voqea, inson ehtiyojlarini, shu jumladan hayot, mehnat va bo’sh vaqtni ishlab chiqarish va xizmat ko’rsatishda axborot texnologiyalari tushunchalarini ommaviy ravishda kiritish
+	A. To’rtinchi sanoat inqilobi (Industry4.0)
+B. Uchinchi sanoat inqilobi (Industry3.0)
+	C. Raqamli ishonch (Digital Trust)
+D. CRM (Customer Relationship menejment) tizimi
+ANSWER: A
+
+…..hisoblash platformalari – yangi axborot texnologiya konsepsiyasi bo’lib, u eng kam espluatatsionharajatlar talab qiladi yoki u orqali provayderga murojaatlar tezkor taqdim etiladi
+A. Cloud Computing
+B. Augmented Reality
+C. Business Process Managament Suite
+D. Single-channel commerce
+ANSWER: A
+
+	….bu biznes modellarining elementlarini tavsiflash uchun eng ko’p ishlatiladigan yondashuvlardan biridir
+	A. Canvas biznes modeli
+B. Private labeling
+C. OGSM
+D. Industrialization of services business model
+ANSWER: A
+
+Aksariyat bizneslarning muvofaqiyatsizlikka uchrashidagi asosiy sabablar nimada
+A. Biznes modelining mavjud emasligi yoki noto’g’ri tuzilganligi
+B. Marketing rejasi yo’qligi yoki noto’g’ri tuzilganligi
+C. Yetarli miqdorda investitsiyalar jalb qilinmasligi
+D. Zamonaviy texnologiyalardan foydalanish imkoniyatining yo’qligi
+ANSWER: A
+
+Alibaba elektron Savdo tizimi qaysi davlatda yaratilgan
+A. Xitoy
+B. AQSh
+C. Germaniya
+D. Yaponiya
+ANSWER: A
+
+Amazonning eng keng tarqalgan loyihasi
+A. Amazon onlayn savdo platformasi
+B. Amazon - daryo
+C. Amazon - supermarketlari
+D. Amazon - Alexa xizmati
+ANSWER: A
+
+Amerikaning eng yirik elektron tijorat platformalariga quyidagilar qaysi kirmaydi
+A. AlibabA.com
+B. Amazon.com
+C. Walmart.com
+D. eBay.com
+ANSWER: A
+
+B2B modelining to’g’ri nomlanishini toping
+A. biznesdan biznesga
+B. biznesdan bozorga
+C. biznesdan istemolchiga
+D. istemolchidan biznesga
+ANSWER: A
+
+B2G nima
+A. biznes va davlat o’rtasidagi munosabatlar
+B. jismoniy shaxslar o’rtasidagi munosabatlar
+C. jismoniy shaxslar va bizneslar o’rtasidagi munosabatlar
+D. davlat va bizneslar o’rtasidagi munosabatlar
+ANSWER: A
+
+B2C modelidagi elektron bozor ishtirokchilari o’rtasidagi o’zaro ta’sir shakllari quyidagilarni o’z ichiga olmaydi
+A. Internet orqali davlat xaridlarini tashkil etish
+B. Veb-vitrinalar va elektron kataloglarni tashkil etish
+C. Onlayn-do’kon va elektron savdo maydonchalari orqali savdo qilish
+D. Elektron auksionlarni tashkil etish
+ANSWER: A
+
+Biznes model deganda
+A. Tadbirkorlik, strategiya, iqtisodiyot, moliya, operatsiyalar, raqobatbardosh strategiyalar, marketing va kompaniyani rivojlantirish strategiyalari kabi biznes tarkibiy qismlaridan iborat tizim
+B. Narxini belgilash, xarajatlarni ko’rib chiqish
+C. Zarur platformalarni belgilash, savdo sotiqni tahlil qilish
+D. An’anaviydan raqamliga utish
+ANSWER: A
+
+Biznes model haqida keltirilgan to’g’ri izohni belgilang
+A. Barcha javoblar to’g’ri
+B. Tashkilotning turli mijozlarga taqdim etadigan qiymatini tavsiflaydi
+C. Tashkilot va uning sheriklarining ushbu qiymatni yaratish, targ’ib qilish va mijozlarga etkazish qobiliyatini aks ettiradi
+D. Bu kompaniya qiymat yaratish va foyda olish uchun foydalanadigan usul hisoblanadi
+ANSWER: A
+
+Biznes modeli bu
+A. Barcha javoblar to’g’ri
+B. Biznes modelini ishlab chiqishning maqsadi biznesning asosiy elementlari to’g’risida to’liq ma’lumotni olishdir
+C. butun biznes tizimini taqdim etish, shuningdek, uning faoliyati samaradorligini oshirish yo’llarini tahlil qilish
+D. qanday qilib kompaniyaning iste’molchini tanlashi, uning takliflarini shakllantirish va cheklash, resurslarni taqsimlash, qanday vazifalarni mustaqil ravishda bajarishi mumkinligi, tashqi bozor mutaxassislarini jalb qilishi kerakligi, bozorga qanday kirib borishi, iste’molchi uchun qiymat yaratishi va undan foyda oladi
+ANSWER: A
+
+Biznes modelini yaratish bosqichlari
+A. Safarbarlik, tushunish, dizayn, dastur, boshqaruv organi
+B. G’oya, tushunish, dizayn, dastur, boshqaruv organi
+C. Strategiya, tushunish, dizayn, dastur, boshqaruv organi
+D. Maqsad, tushunish, dizayn, dastur, boshqaruv organi
+ANSWER: A
+
+Biznes modelining nechta asosiy elementlari mavjud
+A. 9 ta
+B. 7 ta
+C. 6 ta
+D. 8 ta
+ANSWER: A
+
+Biznes modellari biznes strategiyasidan qanday farq qiladi
+A. Qiymat yaratish omili va ularning daromadga aylanishi
+B. Kompaniyaning biznes funktsiyasi tuzilishini tushunish
+C. Yangi mutaxassislarni tez va samarali tayyorlash
+D. Ishlash, bosqichma-bosqich reja, korxonani rivojlantirish
+ANSWER: A
+
+Biznes va elektron tijoratni raqamlashtirish darajasi qaysi ko’rsatkich bilan belgilanadi
+A. ishlab chiqarishga raqamli texnologiyalarning integratsiyalashuvi darajasi
+B. internet xizmatidan fuqarolarning foydalanish darajasi
+C. raqamli ko’nikmalar
+D. internet tarmog’ining mavjudligi
+ANSWER: A
+
+Biznesda raqamli texnologiyalarning rivojlanishi
+A. korxonaning tashqi ko’rinishini o’zgartirishi, menejment tizimiga, kompaniyaning biznes modellari va strategiyalariga ijobiy ta’sir ko’rsatadi
+B. barcha ishlab chiqarish boshqaruvini o’zgartiradi
+C. boshqaruv jarayonini avtomatlashtirish
+D. barcha jarayonlarni soddalashtirish
+ANSWER: A
+
+Canvas, ‘ZottAmit’ modeli, BM navigator, 4W approach, Hybrid business models, Resource-based view (RBV)
+A. Biznes model strukturalari
+B. Elektron savdo usullari
+C. Integratsiyalashuv vositalari
+D. Kompaniya darajasidagi strategiya turlari
+ANSWER: A
+
+CRM-modellar
+A. Mijozlar bilan munosabatlarni boshqarish tizimi
+B. Internetda veb-sayt yoki sahifa
+C. Raqabotchilar bilan munosabatlarni boshqarish tizimi
+D. Marketing va kompaniyani rivojlantirish strategiyalari
+ANSWER: A
+
+Drop Shipping biznes modeli bu
+A. chakana savdo modeli
+B. tezkor va samarador model
+C. analitik va iyerarxik model
+D. o’z vaqtida marketing tadqiqotlari modeli
+ANSWER: A
+
+Elektron biznes quyidagilarni o’z ichiga oladi
+A. Savdo, marketing, moliyaviy tahlil, to’lovlar, mijozlarga xizmat ko’rsatish
+B. Savdo, moliyaviy tahlil, to’lovlar, mijozlarga xizmat ko’rsatish
+C. Savdo, marketing, to’lovlar, mijozlarga xizmat ko’rsatish
+D. Savdo, marketing, moliyaviy tahlil, to’lovlar
+ANSWER: A
+
+Keng ma’noda raqamli biznesining asosiy funktsiyalari nimalardan iborat
+A. Moliyani boshqarish, kadrlarni tayyorlash, moddiy-texnik ta’minot, marketing
+B. Kadrlarni tayyorlash, moddiy-texnik ta’minot
+C. Dasturiy mahsulotlarni islab chiqish va buyurtmachilarga o’z vaqtida etkazib berish
+D. Ma’lumot bazalarini loyihalashtirish va ishlab chiqish
+ANSWER: A
+
+Kompaniya faoliyatining turli jihatlarini yaxshilash uchun raqamli texnologiyalardan foydalanadigan biznes model
+A. mijozlar bilan o’zaro munosabatlar; qiymat taklifi; daromad olish (monetizatsiy
+B. statik va taktik
+C. analitik va iyerarxik
+D. o’z vaqtida marketing tadqiqotlari orqali
+ANSWER: A
+
+Kompaniyaning mo’ljallangan bozor maydoni bu
+A. Marketspace
+B. Market
+C. Marketing
+D. Raqobat
+ANSWER: A
+
+Quyidagilardan qaysi biri savdo platformasi emas
+A. Facebook.com
+B. Amazon.com
+C. eBay.com
+D. AlibabA.com
+ANSWER: A
+
+Raqamlashtirish strategiyasi qanday strategiya
+A. Funktsional strategiya, chunki u individual jarayonlarning o’zgarishiga ta’sir qiladi
+B. Korporativ strategiya, chunki u umuman biznesning o’zgarishi, yangi biznes modelini shakllantirish bilan bog’liq
+C. To’g’ri javob mavjud emas
+D. Umumiy strategiya
+ANSWER: A
+
+Raqamli biznes modellari qanday qilib qiymat qo’shadi
+A. Yaratish, yetkazib berish, qo’lga kiritish, himoya qilish
+B. Narxini belgilash, xarajatlarni ko’rib chiqish
+C. Zarur platformalarni belgilash, savdo sotiqni tahlil qilish
+D. An’anaviydan raqamliga utish
+ANSWER: A
+
+Raqamli biznes modellarini ishlab chiqishdan asosiy maqsad nima
+A. Kompaniyalarning bozorda yangi qiymat yaratgan holda o’rin egallashi
+B. Turli biznes modellarini hayotga tatbiq etilishini nazorat qilish
+C. Xorijiy biznes modellari asosida yangi biznes modellarini ishlab chiqish
+D. Biznes modellarni raqobatchi kompaniya modellari bilan taqqoslash
+ANSWER: A
+
+Raqamli biznes modellarining turi noto’g’ri keltirilgan qatorni toping
+A. Inson harakterga asoslangan
+B. Obunaga asoslangan
+C. Reklama daromadiga asoslangan
+D. Bepul mahsulotga asoslangan
+ANSWER: A
+
+Raqamli biznes modellarining turlarini belgilang
+A. Barcha javoblar to’g’ri
+B. Elektron tijorat, obunaga asoslangan
+C. Talab bo’yicha, ochiq manbali
+D. Bepul mahsulot, reklama daromadiga asoslangan
+ANSWER: A
+
+Raqamli biznes quyidagilar asosida quriladi
+A. birlashgan korxona resurslarini boshqarish tizimlari
+B. biznes jarayonlarini avtomatlashtirish va Internetga asoslangan elektron aloqa imkoniyatlaridan foydalanadigan biznes modellari
+C. ta’minot zanjiri boshqaruv tizimlari bilan birlashtirilgan mijozlar bilan munosabatlarni boshqarish tizimlari
+D. ma’lumotlar bazalari, veb-ilovalar va bulutli xizmatlardan foydalanish
+ANSWER: A
+
+Raqamli biznes sohasida “sug’urtalash” ostida tushuniladi
+A. Tabiiy ofatlar, axborot biznesi sohasida muvaffaqiyatsizliklar va boshqalardan ko’rilgan ziyonlarni kafolatli qoplash tizimi
+B. Axborot tizimlarini ishlab chiqish va tadbiq etish sohasida axborot xizmatlarini ko’rsatish bo’yicha asoslangan tashkiliy tuzilmalar faoliyatidir
+C. Axborot mahsulotlaridan bepul foydalanish imkoniyati
+D. Dasturiy ta’minot va ma’lumotlar himoyasini ta’minlash
+ANSWER: A
+
+Raqamli biznes tadbirkorlik faoliyati sifatida qanday jihatlari bilan ifodalanadi
+A. Huquqiy, texnik, tashkiliy va iqtisodiy
+B. Huquqiy, texnik va iqtisodiy
+C. Texnik, iqtisodiy va tashkiliy
+D. Tashkiliy va iqtisodiy
+ANSWER: A
+
+Raqamli biznesining iqtisodiy jihatlariga nimalar taalluqli
+A. Axborot mahsulotlari va xizmatlarini baholashning uslubiy asoslarini yaratish
+B. Axborot infratuzilmasini shakllantirish
+C. Yangi avlod mikroprotsessorlari va bir xilga keltirilgan operatsion tizimlar ishlab chiqarish
+D. Intellektual mulk ob’ekti sifatida dasturiy mahsulotlarning huquqiy himoyasi
+ANSWER: A
+
+Raqamli biznesining texnik jihatlariga nimalar taalluqli
+A. Yangi avlod mikroprotsessorlari va bir xilga keltirilgan operatsion tizimlarni ishlab chiqarish
+B. Axborot infratuzilmasini shakllantirish
+C. Intellektual mulk ob’ekti sifatida dasturiy mahsulotlarning huquqiy himoyasi
+D. Axborot mahsulotlari va xizmatlarini baholashning uslubiy asoslarini yaratish
+ANSWER: A
+
+"Raqamli iqtisodiyot va elektron hukumatni keng joriy etish chora-tadbirlari to’g’risida"gi O’R Prezidenti qarori qachon qabul qilingan
+A. 28.04.2020
+B. 28.04.2019
+C. 28.01.2020
+D. 28.01.2019
+ANSWER: A
+
+Raqamli iqtisodiyotda elektron biznes quyidagilarni anglatadi
+A. AKT yordamida tijorat operatsiyalari va biznes jarayonlarini amalga oshirish
+B. Internet orqali tovar va xizmatlarni sotishni tashkil etish
+C. Ulgurji va chakana savdoni tashkil qilish uchun onlayn-do’konlarni rivojlantirish
+D. Kompyuter tarmoqlari orqali kompyuter texnikasi va dasturiy ta’minotini amalga oshirish
+ANSWER: A
+
+Raqamli biznes modellar fanining maqsadi nima
+A. Fanning maqsadi mavjud raqamli biznes model va raqamli texnologiyalar bo’yicha bilimlarni shakllantirish va raqamli biznes modellarni qurish va rejalashtirish bo’yicha amaliy ko’nikmalar hosil qilish
+B. Fanning maqsadi chet el raqamli biznes modellarini o’rganish va ularni hayotga tatbiq etish
+C. Fanning maqsadi yangi raqamli biznes modellarini va raqamli texnologiyalarni tashkil qilish va ularning bazasini shakllantirish
+D. To’g’ri javob yo’q
+ANSWER: A
+
+"Raqamli O?zbekiston - 2030 strategiyasini tasdiqlash va uni samarali amalga oshirish chora-tadbirlari to?g?risida"gi O’R Prezidenti farmoni nima haqida
+A. O?zbekistonda raqamli texnologiyalar va iqtisodiyotni rivojlantirish, mamlakatning ijtimoiy-iqtisodiy jarayonlarida axborot kommunikatsion texnologiyalarni joriy etish bo?yicha kompleks chora-tadbirlar ishlab chiqish
+B. 2030-yilga qadar fuqarolarning barchasini kompyuter texnik vositasi bilan tamilash
+C. Raqamli O?zbekiston - 2030 nomli yagona elektron portalni yaratish va joriy etish
+D. Sog?liqni saqlash va qishloq xo?jaligida zamonaviy axborot-kommunikatsiya texnologiyalarini keng joriy etish
+ANSWER: A
+
+"Raqamli O?zbekiston - 2030 strategiyasini tasdiqlash va uni samarali amalga oshirish chora-tadbirlari to?g?risida"gi O’R Prezidenti farmoni qachon qabul qilingan?
+A. 05.10.2020
+B. 05.10.2000
+C. 05.10.2015
+D. 05.10.2017
+ANSWER: A
+
+Raqamli transformatsiya qanday strategiya
+A. Korporativ strategiya, chunki u umuman biznesning o’zgarishi, yangi biznes modelini shakllantirish bilan bog’liq
+B. Umumiy strategiya
+C. Funktsional strategiya, chunki u individual jarayonlarning o’zgarishiga ta’sir qiladi
+D. To’g’ri javob mavjud emas
+ANSWER: A
+
+Raqamli transformatsiya strategiyasi deganda nimani tushunasiz
+A. bu korporativ strategiya, chunki u umuman biznesning o’zgarishi, yangi biznes modelini shakllantirish bilan bog’liq
+B. elektron integratsiyalashuv jarayonlari strategiyasi tushuniladi
+C. bu raqamli texnologiyalarni rivojlantirishga bo’lgan strategik boshqaruv va biznes munosabat shaklidir
+D. kompaniya darajasidagi strategiya
+ANSWER: A
+
+To’g’ri biznes modelini tanlashda qaysi omillarni hisobga olish kerak
+A. Barcha javoblar to’g’ri
+B. Har bir kompaniya biznes-modellashtirishni AT tizimlari mutaxassislarining vakolatlari doirasidan top-menejer darajasiga ko’tarishi mumkin
+C. To’plangan "yuqori kasbiy sohalarda" usul va modellarga murojaat qilish kerak: birinchi navbatda, bu korporativ axborot tizimlarini shakllantirishda hozirda qo’llanilayotgan modellardir, shuningdek, loyihalarni boshqarishda model ishlanmalaridan foydalanishni kengaytirish muhimdir
+D. Strategik modelni yaratishda ishonch hosil qiling (uzoq muddatli va savollarga javob berish: kim bilan? Nima? Qayerda? Qanday qilib? Qanday tezlikda va miqyosda?) Shu bilan birga, siz tayyor standart strategiyalarni qabul qila olmaysiz, chunki strategik model faqat tashkilot haqiqatidir. ushbu tashkilotning boshqaruv jamoasi
+ANSWER: A
+
+Yangi yo’nalishdagi elektron tijorat modellari ko’rsatilgan qatorni toping
+A. mobil tijorat, ma’muriyatlar o’rtasida, ma’muriyat va tijorat tashkilotlari o’rtasida, ma’muriyat va iste’molchilar o’rtasida
+B. biznes va biznes o?rtasida, biznes va iste?molchilar o?rtasida
+C. biznes va davlat o?rtasida, jismoniy shaxslar o?rtasida, davlat va bizneslar o?rtasida
+D. davlat va jismoniy shaxslar o?rtasida, jismoniy shaxslar va bizneslar o?rtasida
+ANSWER: A
