@@ -3,15 +3,16 @@
 - checks the uploaded test 
 - forwards the uploaded test to the admin's telegram channel
 
-# testyuborbot commands: 
+## testyuborbot commands: 
 1. **/start**  starts the bot
 2. **/help**   show commands to user
 
-# testyuborbot ADMIN commands: 
+## testyuborbot ADMIN commands: 
 1. **/allusers**  send .xlsx to admin which contains all datas in database
 2. **/chp**       automatic change password of user. Unique user(hemis) id required
 3. **/cleandb**   clean all datas in database
 3. **/reklama**   send ad to all users(current doesn't work)
+
 
 # Aiogram 3 app
 
