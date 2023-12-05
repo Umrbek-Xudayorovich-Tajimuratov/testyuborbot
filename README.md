@@ -1,4 +1,19 @@
-# Aiogram New Template (aiogram 3)
+# testyuborbot can : 
+- take .txt tests from teachers
+- checks the uploaded test 
+- forwards the uploaded test to the admin's telegram channel
+
+# testyuborbot commands: 
+1. **/start**  starts the bot
+2. **/help**   show commands to user
+
+# testyuborbot ADMIN commands: 
+1. **/allusers**  send .xlsx to admin which contains all datas in database
+2. **/chp**       automatic change password of user. Unique user(hemis) id required
+3. **/cleandb**   clean all datas in database
+3. **/reklama**   send ad to all users(current doesn't work)
+
+# Aiogram 3 app
 
 ### 1. Create virtual environment and install packages
 Windows
@@ -23,56 +38,9 @@ Linux/Mac
 python3 app.py
 ```
 
-# Set up Postgresql on server
-
-### 1. Install postgresql (if needed)
-```shell
-sudo apt install -y postgresql postgresql-contrib
-```
-
-### 2. Log in to the postgresql shell
-```shell
-sudo -u postres psql
-```
-
-### 3. Create a database (in postgresql shell)
-```shell
-CREATE DATABASE database_name WITH template = template0 ENCODING 'UTF8' LC_CTYPE 'C' LC_COLLATE 'C';
-```
-
-### 4. Create a user (in postgresql shell)
-```shell
-CREATE USER user_name WITH PASSWORD 'password';
-```
-
-### 5. Set encoding (in postgresql shell)
-```shell
-ALTER ROLE user_name SET client_encoding TO 'utf8';
-```
-
-### 6. Restrict transactions from an unexpected db user (in postgresql shell)
-```shell
-ALTER ROLE user_name SET default_transaction_isolation TO 'read committed';
-```
-
-### 7. Set timezone (in postgresql shell)
-```shell
-ALTER ROLE user_name SET timezone TO 'UTC';
-```
-> **_Note:_**  If you use another timezone in your project, replace **'UTC'** with yours.
-
-### 8. Grant the user the right to manage the db (in postgresql shell)
-```shell
-GRANT ALL PRIVILEGES ON DATABASE database_name TO user_name;
-```
-
-### 9. Quit postgresql (in postgresql shell)
-```shell
-\q
-```
-
-## If you have questions for this project, join and ask our community: https://t.me/+Wu3loL2thM8yZDMy
+## If you have questions for this project, join and ask to me: https://t.me/dbmumrbek
 
 <p align="center">
 <img style="width: 60%;" src="https://i.postimg.cc/nzykWKNd/result.gif">
 </p>
+
