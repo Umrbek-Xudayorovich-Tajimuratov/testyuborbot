@@ -1,4 +1,4 @@
-import json
+# import json
 import logging
 import os
 import sqlite3
@@ -7,10 +7,10 @@ from keyboards.reply.phone_sendingKB import phone_uz, phone_en, phone_ru
 from keyboards.reply.back import back_en,back_uz,back_ru
 from states.test_states import SendTest
 from aiogram.fsm.context import FSMContext
-from data.config import ADMINS, CHANNEL_ID
+from data.config import ADMINS, CHANNEL_ID, ROOT_PATH
 
 from loader import router, bot, db
-from states.user_login import UserData
+# from states.user_login import UserData
 from keyboards.inline.buttons import are_you_sure_markup
 
 from utils.check_test_file import check_tests, check_utf
@@ -33,7 +33,7 @@ async def handle_document(message: types.Message, state: FSMContext):
         file_id = message.document.file_id
 
         fi = await bot.get_file(file_id)
-        file_path = fi.file_path
+        file_path = ROOT_PATH + fi.file_path
 
         # Update the state machine's data with the chosen data
         await state.update_data(
@@ -47,7 +47,7 @@ async def handle_document(message: types.Message, state: FSMContext):
         if is_utf_8:            
             errors=''
             errs = await check_tests(file_path, bot_language)
-            if len(errs)!=0:
+            if len(errs):
                 for e in errs:  
                     errors+= f"{e['index']}.{e['definition']}\n"
                 await message.reply(f"<pre>{errors}</pre>")
@@ -57,7 +57,7 @@ async def handle_document(message: types.Message, state: FSMContext):
                 # Delete the message
                 # await delete_all_messages(chat_id)
 
-                if bot_language=="uz":
+                if bot_language == "uz":
                     await message.reply("<blockquote>✅ Faylingiz xatosiz! Muvafaqqiyatli qabul qilindi</blockquote>\n\n<i>Test topshiradigan guruhlarni yozing</i>",reply_markup=back_uz)
                 elif bot_language=="en":
                     await message.reply("<blockquote>✅ Your file is error free! Accepted successfully</blockquote>\n\n<i>Type the groups which the test will be taken</i>",reply_markup=back_en)

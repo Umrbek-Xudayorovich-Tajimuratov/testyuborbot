@@ -46,32 +46,11 @@ def ta_check(a, is_a,index,lang):
     if not a.startswith(is_a):
         errors.append({"index":index, "definition": definition})
     if not a[7:].strip().isascii() and len(a[7:].strip())!=0  and len(a[7:].strip())<=2:
-        errors.append({"index":index, "definition": definition1})
-
-
-# def check_content(file_path):
-#     """
-#         … - bu ob’ektlar yoki elektronika, dasturiy ta’minot, datchiklar va tarmoq ulanishi bilan o’rnatilgan "narsalar" tarmog’i, bu ob’ektlarga ma’lumotlarni yig’ish va almashish imkonini beradi
-#         A. Buyumlar interneti
-#         B. Blokcheyn
-#         C. Bulutli texnologiyalar
-#         D. Kriptovalyutalar
-#         ANSWER: A
-
-#     """
-
-#     row_starter = ["A.", "B.", "C.", "D.", "ANSWER:"]
-#     row_step = 0
-#     question_count = 0
-#     with open(file_path, 'r') as file:
-
-#         for row in file.readline():
-            
-
+        errors.append({"index":index, "definition": definition1})       
 
 
 async def check_tests(file_path, bot_language):
-    
+
     f = codecs.open(file_path, encoding='utf-8', errors='strict')
     
     i=1
@@ -109,6 +88,3 @@ async def check_utf(given_file, file_path):
             return False
     except Exception as e:
         return  f"An error occurred: {e}"
-
-
-

@@ -1,5 +1,6 @@
 import os
 from aiogram import types, F
+from data.config import ROOT_PATH
 from states.check_test_file import CheckTestState
 from states.test_states import SendTest
 from aiogram.fsm.context import FSMContext
@@ -23,8 +24,7 @@ async def handle_document(message: types.Message, state: FSMContext):
         file_id = message.document.file_id
         # Get the document file path from the file id
         fi = await bot.get_file(file_id)
-        file_path = fi.file_path
-
+        file_path = ROOT_PATH + fi.file_path
        
         # Check the file is in utf-8 format or not
         is_utf_8 = await check_utf(given_file=message.document, file_path=file_path)

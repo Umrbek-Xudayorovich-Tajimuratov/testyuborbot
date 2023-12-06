@@ -5,6 +5,7 @@ from aiogram.client.session.middlewares.request_logging import logger
 from loader import db
 
 
+
 def setup_handlers(dispatcher: Dispatcher) -> None:
     """HANDLERS"""
     from handlers import setup_routers

@@ -59,7 +59,7 @@ async def add_user(message: types.Message, state: FSMContext):
                 except sqlite3.IntegrityError as err:
                     logging.info(f"Error: {err}")
 
-                msg = f"<b>USERNAME:</b> @{message.from_user.username}\n<b>USER_LINK:</b> {message.from_user.url}\n\n<b>NAME:</b> <code>{data['name']}</code>\n<b>HEMIS_ID:</b> <code>{hemis_id}</code>\n<b>PASSWORD:</b> <code>{new_password}</code>\n\n<i>User muvaffaqiyatli qo'shildi.</i>\n#new_user"
+                msg = f"<b>USERNAME:</b> @{message.from_user.username}\n<b>USER_LINK:</b> {message.from_user.url}\n\n<b>NAME:</b> <code>{data['name']}</code>\n<b>PASSWORD:</b> <code>{new_password}</code>\n\n<i>User muvaffaqiyatli qo'shildi.</i>\n#new_user"
                 await bot.send_message(chat_id=CHANNEL_ID[0], text=msg)
 
             if bot_language=='uz':

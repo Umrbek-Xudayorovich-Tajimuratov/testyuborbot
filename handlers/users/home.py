@@ -1,5 +1,6 @@
 from aiogram import types,F
 from aiogram.fsm.context import FSMContext
+from data.config import ROOT_PATH
 from states.check_test_file import CheckTestState
 from states.languages import Language
 from keyboards.reply.home import home_uz, home_ru, home_en
@@ -145,7 +146,7 @@ ____\n\
     # await message.answer(cache_time=30)
 
     # Send correct file to user
-    file_path = "documents/namuna.txt"
+    file_path = ROOT_PATH + "documents/namuna.txt"
     input_file = types.FSInputFile(file_path)
     await bot.send_document(document=input_file, caption=msg, chat_id=message.chat.id, reply_markup=btn)
 

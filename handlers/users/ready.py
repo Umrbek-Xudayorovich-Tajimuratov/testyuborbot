@@ -55,7 +55,7 @@ async def test_ready(call: types.CallbackQuery, state: FSMContext):
             \n<i><b>👥 Guruhlar:</b></i> <code>{groups}</code>\
             \n<i><b>🏢 Kafedra:</b></i> <code>{test_department}</code>\
             \n<i><b>📲 Telefon:</b></i> <code>{phone}</code>\
-            \n\nYana boshqa test yuklashingiz mumkin /start \
+            \n\nYana boshqa test yuklashingiz mumkin  \
         "
         user_cap_ru=f"\
             <i><b>👨‍🏫 Имя:</b></i> <code>{teacher_name}</code>\
@@ -63,7 +63,7 @@ async def test_ready(call: types.CallbackQuery, state: FSMContext):
             \n<i><b>👥 Группы:</b></i> <code>{groups}</code>\
             \n<i><b>🏢 Отдел:</b></i> <code>{test_department}</code>\
             \n<i><b>📲 Телефон:</b></i> <code>{phone}</code>\
-            \n\nВы можете загрузить другой тест /start \
+            \n\nВы можете загрузить другой тест  \
         "
         user_cap_en=f"\
             <i><b>👨‍🏫 Name:</b></i> <code>{teacher_name}</code>\
@@ -71,7 +71,7 @@ async def test_ready(call: types.CallbackQuery, state: FSMContext):
             \n<i><b>👥 Groups:</b></i> <code>{groups}</code>\
             \n<i><b>🏢 Department:</b></i> <code>{test_department}</code>\
             \n<i><b>📲 Phone:</b></i> <code>{phone}</code>\
-            \n\nYou can load another test /start \
+            \n\nYou can load another test  \
         "
     
         # Send the test  to the Admin and user
@@ -89,18 +89,18 @@ async def test_ready(call: types.CallbackQuery, state: FSMContext):
         if bot_language == 'uz':
             await bot.send_message(
                 chat_id=call.from_user.id,
-                text=f"🚫 <b>TEST YUKLANMADI!</b>\n/start\nTest yuklashni qaytadan boshlashingiz mumkin!",reply_markup=home_uz)
+                text=f"🚫 <b>TEST YUKLANMADI!</b>\n\nTest yuklashni qaytadan boshlashingiz mumkin!",reply_markup=home_uz)
         elif bot_language == 'ru':
             await bot.send_message(
                 chat_id=call.from_user.id,
-                text=f"🚫 <b>ТЕСТ НЕ ЗАГРУЗИЛСЯ!</b>\n/start\nВы можете перезапустить тестовую загрузку!",reply_markup=home_ru)
+                text=f"🚫 <b>ТЕСТ НЕ ЗАГРУЗИЛСЯ!</b>\n\nВы можете перезапустить тестовую загрузку!",reply_markup=home_ru)
         elif bot_language == 'en':
             await bot.send_message(
                 chat_id=call.from_user.id,
-                text=f"🚫 <b>TEST FAILED TO LOAD!</b>\n/start\nYou can restart test loading!",reply_markup=home_en)
+                text=f"🚫 <b>TEST FAILED TO LOAD!</b>\n\nYou can restart test loading!",reply_markup=home_en)
 
-    # Reset the FSM to the start state
-    await state.clear()
+    # # Reset the FSM to the start state
+    # await state.clear()
 
     # Change state to groups
     await state.set_state(HomeState.choose_menu)

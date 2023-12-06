@@ -7,6 +7,7 @@ env.read_env()
 # .env fayl ichidan quyidagilarni o'qiymiz
 BOT_TOKEN = env.str("BOT_TOKEN")  # Bot Token
 CHANNEL_ID = env.list("CHANNEL_ID")  # Bot Token
+ROOT_PATH = env.str("ROOT_PATH")  # Root path
 ADMINS = env.list("ADMINS")  # adminlar ro'yxati
 IP = env.str("ip")  # Xosting ip manzili
 

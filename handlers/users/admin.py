@@ -9,7 +9,7 @@ from keyboards.inline.buttons import are_you_sure_markup
 from states.change_P import ChangePassword
 from states.test import AdminState
 from filters.admin import IsBotAdminFilter
-from data.config import ADMINS
+from data.config import ADMINS, ROOT_PATH
 from utils.password_generator import generate_password
 from utils.pgtoexcel import export_to_excel
 
@@ -19,7 +19,7 @@ router = Router()
 @router.message(Command('allusers'), IsBotAdminFilter(ADMINS))
 async def get_all_users(message: types.Message):
     users = db.select_all_users() 
-    file_path = f"documents/users_list.xlsx"
+    file_path = f"{ROOT_PATH}documents/users_list.xlsx"
     await export_to_excel(data=users, headings=['HEMIS ID', 'PAROL','TELEGRAM ID', 'FIO','KAFEDRA','LAVOZIM', 'TELEFON', 'TIL'], filepath=file_path)
 
     await message.answer_document(types.input_file.FSInputFile(file_path))
@@ -81,13 +81,15 @@ async def send_ad_to_users(message: types.Message, state: FSMContext):
 @router.message(Command('cleandb'), IsBotAdminFilter(ADMINS))
 async def ask_are_you_sure(message: types.Message, state: FSMContext):
     msg = await message.reply("Haqiqatdan ham bazani tozalab yubormoqchimisiz?", reply_markup=are_you_sure_markup)
-    await state.update_data(msg_id=msg.message_id)
+    current_state = await state.get_state()
+    await state.update_data(current_state=current_state, msg_id=msg.message_id)
     await state.set_state(AdminState.are_you_sure)
 
 
 @router.callback_query(AdminState.are_you_sure, IsBotAdminFilter(ADMINS))
 async def clean_db(call: types.CallbackQuery, state: FSMContext):
     data = await state.get_data()
+    prev_state = data.get('current_state')
     msg_id = data.get('msg_id')
     if call.data == 'yes':
         db.delete_users()
@@ -95,4 +97,6 @@ async def clean_db(call: types.CallbackQuery, state: FSMContext):
     elif call.data == 'no':
         text = "Bekor qilindi."
     await bot.edit_message_text(text=text, chat_id=call.message.chat.id, message_id=msg_id)
-    await state.clear()
+    
+    # Change state to groups
+    await state.set_state(prev_state)
