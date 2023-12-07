@@ -4,7 +4,7 @@ home_uz = ReplyKeyboardMarkup(
     keyboard=[
         [
             KeyboardButton(text="✔️ Testni tekshirish"),
-            KeyboardButton(text="🗃️ Testni yuklash"),
+            # KeyboardButton(text="🗃️ Testni yuklash"),
         ],
         [
             KeyboardButton(text="⚖️ Test yuborish qoidalari"),
@@ -22,7 +22,7 @@ home_ru = ReplyKeyboardMarkup(
     keyboard=[
         [
             KeyboardButton(text="✔️ Проверьте тест"),
-            KeyboardButton(text="🗃️ Загрузить тест"),
+            # KeyboardButton(text="🗃️ Загрузить тест"),
         ],
         [
             KeyboardButton(text="⚖️ Правила отправки тестов"),
@@ -40,7 +40,7 @@ home_en = ReplyKeyboardMarkup(
     keyboard=[
         [
             KeyboardButton(text="✔️ Check the test"),
-            KeyboardButton(text="🗃️ Upload the test"),
+            # KeyboardButton(text="🗃️ Upload the test"),
         ],
         [
             KeyboardButton(text="⚖️ Test submission rules"),
